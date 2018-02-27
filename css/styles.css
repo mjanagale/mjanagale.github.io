@@ -34,7 +34,7 @@ position: absolute;
 	height: 120px;
 	
 	border-radius: 50%;
-	background-image: url('../mukhtar.jpg');
+	background-image: url('..images/mukhtar.jpg');
 	background-size: cover;
 }
 .name-header{
